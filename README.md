@@ -73,15 +73,15 @@ Hand-Gesture-Recognition-System/
 
 ### Sign Recognition
 
-![Sign Recognition](assets/Screenshots/Sign%20Recognition.png)
+![Sign Recognition](assets/Screenshots/sign_recognition.png)
 
 ### Virtual Mouse
 
-![Virtual Mouse](assets/Screenshots/Virtual%20Mouse.png)
+![Virtual Mouse](assets/Screenshots/virtual_mouse.png)
 
 ### Virtual Painter
 
-![Virtual Painter](assets/Screenshots/Virual%20Painter.png)
+![Virtual Painter](assets/Screenshots/virual_painter.png)
 
 ---
 
